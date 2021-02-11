@@ -12,8 +12,8 @@ This is a simple, complete match-3 game.
 
 **Documentation**
 
-* [Read_me.txt] (TripleMatch/Assets/Documentation/read_me.txt)
-* [Architecture.pdf] (TripleMatch/Assets/Documentation/TripleMatch_Architecture_v1.pdf)
+* [Read_me.txt] (https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/read_me.txt?raw=true)
+* [Architecture.pdf] (https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/TripleMatch_Architecture_v1.pdf?raw=true)
 
 Created By
 =============
