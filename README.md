@@ -11,9 +11,8 @@ This is a simple, complete match-3 game.
 * To review the code, open [com.rmc.projects.triple_match.mvc.TripleMatchCore.cs] (TripleMatch/Assets/Scripts/Runtime/com/rmc/projects/triple_match/mvc/TripleMatchCore.cs)
 
 **Documentation**
-
-* [Read_me.txt] (https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/read_me.txt?raw=true)
-* [Architecture.pdf] (https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/TripleMatch_Architecture_v1.pdf?raw=true)
+* <a href="https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/read_me.txt?raw=true">Read_me.txt</a>
+* <a href="https://github.com/SamuelAsherRivello/TripleMatch/blob/main/Unity/Assets/Documentation/TripleMatch_Architecture_v1.pdf?raw=true">Architecture.pdf</a>
 
 Created By
 =============
